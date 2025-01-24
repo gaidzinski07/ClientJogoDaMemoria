@@ -1,6 +1,6 @@
 # Client Jogo da Memória
 
-Aplicação do Cliente do projeto de aplicação da disciplina de Redes de Computadores da Universidade Federal Fluminense. Esse repositório contem somente o Cliente.
+Aplicação do Cliente do projeto de aplicação da disciplina de Redes de Computadores da Universidade Federal Fluminense. Esse repositório contem somente o Cliente. Importante ressaltar que apesar do repositório possuir todo o código fonte do cliente, não é necessário ter um ambiente de desenvolvimento Unity para rodar o mesmo, tendo em vista que a build do jogo está disponível no repositório.
 
 
 
